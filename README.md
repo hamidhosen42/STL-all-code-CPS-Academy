@@ -1,72 +1,78 @@
 # STL-all-code-slide
 Basic Data structure :
 Standard Template Library :
-1) Vector :
-●	Discussion on vectors.
-●	Discussion on A. Sereja and Dima (1)
-●	Discussion on 852. Peak Index in a Mountain Array (0, vector max_element )
-
-2) String :
-●	Discussion on String.
-●	https://codeforces.com/problemset/problem/118/A
-●	https://www.hackerearth.com/problem/algorithm/the-palindrome-2/description/
-●	https://practice.geeksforgeeks.org/problems/sum-of-digit-is-pallindrome-or-not/0
-●	https://codeforces.com/contest/112/problem/A
-●	https://codeforces.com/contest/78/problem/A
-●	https://www.hackerearth.com/problem/algorithm/lexogeek-e6450fb7/description/
 
 
+	Vector Problem:
 
-3) Pair :
-●	Discussion on Pair.
-●	A. Rank List (1, sort )
-●	https://codeforces.com/problemset/problem/166/A
-●	https://practice.geeksforgeeks.org/problems/count-distinct-pairs-with-difference-k/0
-●	https://codeforces.com/contest/44/problem/A
+1.	Code force=381A(Sereja and Dima)
+2.	LeetCode=852( Peak Index in a Mountain Array)
+3.	LeetCode= 1502(Can Make Arithmetic Progression From Sequence)
+4.	Hackerearth=( Distinct Count)
+5.	Geeksforgeeks=C++ STL|Set 1(Vector)
+6.	
+	String Problem:
 
-4) Map:
-●	Discussion on map.
-●	A. Tom Riddle's Diary ( 1, string )
-●	A. Indian Summer ( 1, string, pair )
-●	C - Good Sequence (2, vector unique )
+1.	Codeforce=118A(String Task)
+2.	CodeForce=112A(Petya and String)
+3.	CodeForce=78A(Haiku)
+4.	Hackerearth=(The Palindrome)
+5.	Hackerearth=(LexoGeek)
+6.	Geeksforgeeks= Sum of Digit is Pallindrome or not 
+7.	Codeforce=909A(Generate Login-1000)
+8.	CodeForce=258A(Little Elephant and Bits-1100)
+9.	
+	Pair Problem:
 
-Exercise on map :
-●	C. Boxes Packing ( 3, greedy )
-●	C. Registration system (1, string )
-●	B. Radio Station (1, string )
-●	RPLD - Database ( 1, pair )
+1.	Codeforce=44A(Indian Summer)
+2.	CodeForce=166A(Rank List)
+3.	Geeksforgeeks= Count distinct pairs with difference k 
+4.	SPOJ=SORT2D-SORT
+5.	CodeForce=230A(Dragons-1000)
+6.	
+	Map Problem:
 
-5) Set :
-●	Discussion on set.
-●	https://leetcode.com/problems/contains-duplicate/
-●	https://codeforces.com/problemset/problem/469/A
-●	https://www.hackerrank.com/challenges/cpp-sets/problem
-●	https://practice.geeksforgeeks.org/problems/c-stl-set-6-set/1
-●	https://practice.geeksforgeeks.org/problems/set-operations/1
-●	https://codeforces.com/problemset/problem/22/A
+1.	Geeks for Geeks= Find the Frequency 
+2.	Geeks for Geeks=Twice Counter
+3.	Geeks for Geeks  = Word with maximum frequency 
+4.	AtCoder = C-Good sequence
+5.	CodeForce=855A(Tom Riddle’s Diary)
+6.	CodeForce=4C(Registration System)
+7.	CodeForce=918B(Radio Station)
+8.	CodeForce=903C(Boxes Packing)
+9.	SPOJ=RPLD-Database
+10.	CodeForce=1003A(Polycarp’s Pockets-800)
+11.	CodeForce=43B(Letter-1100)
+12.	
+	Set Problem:
 
+1.	Geeks for Geeks= C++ STL | Set 6 (set)
+2.	Geeks for Geeks= Set Operations
+3.	HackerRank=Sets-STL
+4.	LeetCode=217(Contains Duplicate)
+5.	CodeForce=22A(Second Order Statistics)
+6.	CodeForce=469A(I Wanna Be the Guy)
+7.	CodeForce =1015A(Points in Segments-800)
+8.	
+	MultiSet Problem:
 
-6) Multiset :
-●	Discussion on multiset
-●	C. Stripe 2 (3, partial sum )
+1.	Geeks for Geeks= Multiset Operations
+2.	
+	Queue Problem:
 
-7) Stack :
-●	Discussion on stack.
-●	balanced brackets (1, bracket sequence )
-8) Queue :
-●	Discussion on Queue
-●	10935 - Throwing cards away I ( 1, stratforward )
-●	540 - Team Queue ( 3 )
+1.	Geeks for Geeks= Queue Push & Pop
+2.	Geeks for Geeks= Reverse First K elements of Queue
+3.	Geeks for Geeks= Queue Reversal
+4.	
+	Deque Problem:
 
-9) Deque :
-●	Discussion on Deque
+1.	Geeks for Geeks= Deque Implementations
+2.	
+	Priority queue Problem:
 
-10) Priority queue :
-●	Discussion on  Priority Queue.
-●	B. T-shirt buying ( 4, map )10954 - Add All ( 4, nice ).
-●	D. Constructing the Array (5, get max by making negative or comparator )
-
-Exercise on Priority Queue :
-●	B. T-shirt buying ( 4, map )
-●	REDARR2 - Reduce the array ( same 10954 - Add All )
-
+1.	CodeForce=799B(T-shirt buying)
+2.	SPOJ=REDARR2-Reduce the array
+3.	Hackerearth= Monk And Champions League
+4.	Hackerearth= Monk and Multiplication
+5.	CodeForce=1353D(Constructing the array)
+6.	CodeForce=218B(Airport-1100)
