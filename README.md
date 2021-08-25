@@ -3,7 +3,7 @@ Basic Data structure :
 Standard Template Library :
 
 
-	Vector Problem:
+###	Vector Problem:
 
 1.	Code force=381A(Sereja and Dima)
 2.	LeetCode=852( Peak Index in a Mountain Array)
