@@ -10,8 +10,8 @@ Standard Template Library :
 3.	LeetCode= 1502(Can Make Arithmetic Progression From Sequence)
 4.	Hackerearth=( Distinct Count)
 5.	Geeksforgeeks=C++ STL|Set 1(Vector)
-6.	
-	String Problem:
+	
+###	String Problem:
 
 1.	Codeforce=118A(String Task)
 2.	CodeForce=112A(Petya and String)
@@ -21,16 +21,16 @@ Standard Template Library :
 6.	Geeksforgeeks= Sum of Digit is Pallindrome or not 
 7.	Codeforce=909A(Generate Login-1000)
 8.	CodeForce=258A(Little Elephant and Bits-1100)
-9.	
-	Pair Problem:
+	
+###	Pair Problem:
 
 1.	Codeforce=44A(Indian Summer)
 2.	CodeForce=166A(Rank List)
 3.	Geeksforgeeks= Count distinct pairs with difference k 
 4.	SPOJ=SORT2D-SORT
 5.	CodeForce=230A(Dragons-1000)
-6.	
-	Map Problem:
+	
+###	Map Problem:
 
 1.	Geeks for Geeks= Find the Frequency 
 2.	Geeks for Geeks=Twice Counter
@@ -43,8 +43,8 @@ Standard Template Library :
 9.	SPOJ=RPLD-Database
 10.	CodeForce=1003A(Polycarp’s Pockets-800)
 11.	CodeForce=43B(Letter-1100)
-12.	
-	Set Problem:
+	
+###	Set Problem:
 
 1.	Geeks for Geeks= C++ STL | Set 6 (set)
 2.	Geeks for Geeks= Set Operations
@@ -53,22 +53,22 @@ Standard Template Library :
 5.	CodeForce=22A(Second Order Statistics)
 6.	CodeForce=469A(I Wanna Be the Guy)
 7.	CodeForce =1015A(Points in Segments-800)
-8.	
-	MultiSet Problem:
+	
+###	MultiSet Problem:
 
 1.	Geeks for Geeks= Multiset Operations
-2.	
-	Queue Problem:
+	
+###	Queue Problem:
 
 1.	Geeks for Geeks= Queue Push & Pop
 2.	Geeks for Geeks= Reverse First K elements of Queue
 3.	Geeks for Geeks= Queue Reversal
-4.	
-	Deque Problem:
+	
+###	Deque Problem:
 
 1.	Geeks for Geeks= Deque Implementations
-2.	
-	Priority queue Problem:
+	
+###	Priority queue Problem:
 
 1.	CodeForce=799B(T-shirt buying)
 2.	SPOJ=REDARR2-Reduce the array
